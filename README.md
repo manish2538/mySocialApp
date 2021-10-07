@@ -1,2 +1,4 @@
-"# mySocialApp" 
-demo - [my Social App](https://mysocialreactapp.netlify.app/)
+# mySocialApp
+
+
+- demo - [my Social App](https://mysocialreactapp.netlify.app/)
